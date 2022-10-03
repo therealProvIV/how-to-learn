@@ -1,0 +1,9 @@
+.video__iframes {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  top: 50px;
+  list-style-type: none;
+}
